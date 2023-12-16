@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: wheat;
+}
+h4{
+    text-align: center;
+    color: wheat;
+}
+
+#outerbox{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#box{
+    padding: 20px;
+    background-color: black;
+}
+
+button{
+    background-color: green;
+    color: white;
+}
+::placeholder{
+    
+    background-color: black;
+}
+input[type=text]{
+    background-color: black;
+}
+input[type=number]{
+    background-color: black;
+}
+select{
+    background-color: black;
+    color: grey;
+}
+textarea{
+    background-color: black;
+    color: grey;
+    
+}
+
+    
+
+
+form{
+    text-align: left;
+    color: white;
+}
